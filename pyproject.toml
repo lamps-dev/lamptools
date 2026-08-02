@@ -1,0 +1,20 @@
+[project]
+name = "lamptools-gui"
+version = "0.1.0"
+description = "GUI for LampTools"
+readme = "README.md"
+requires-python = ">=3.12,<3.14"
+dependencies = [
+    "pydub>=0.25.1",
+    "pyinstaller>=6.20.0",
+    "pyside6>=6.11.1",
+    "pywin32>=311; sys_platform == 'win32'",
+    "pyyaml>=6.0",
+    "requests>=2.34.1",
+]
+
+[tool.uv.workspace]
+members = [
+    "src",
+    "src/ui",
+]

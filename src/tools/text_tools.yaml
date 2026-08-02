@@ -1,0 +1,6 @@
+base64_tools:
+  owner: "Lamp Studios" # If owner is Lamp Studios then, verified.
+  about: "A list of Base64 tools!"
+  homepage: "https://studio.lamps-dev.dev/lamptools/plugins"
+  src_download: "" # Only use this for downloading external apps or tools for the app itself.
+  #web_url: ""
