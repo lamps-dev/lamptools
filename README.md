@@ -19,6 +19,10 @@ Install tools on demand. Run them in one place. Build your own.
 ![Qt](https://img.shields.io/badge/PySide6-Qt%206.11-41cd52?style=flat-square&logo=qt&logoColor=white)
 ![Version](https://img.shields.io/badge/version-1.0b-111111?style=flat-square)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q4J321N0ID)
+
+Supporting me would mean a lot to me :3
+
 </div>
 
 ---
